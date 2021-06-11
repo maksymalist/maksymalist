@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **John8790909/John8790909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,14 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My GitHub Stats
-
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-</p>
 
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
@@ -35,6 +25,15 @@ Here are some ideas to get you started:
 - 🤝 I’m looking for help with **CONNECT**
 
 - 📫 How to reach me **johnsmith8790909@gmail.com**
+
+## My GitHub Stats
+
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=tokyonight" />
+  </a>
+</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
