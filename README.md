@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **CONNECT**//**https://github.com/John8790909/CONNECT**
+- 🔭 I’m currently working on **CONNECT** // **https://github.com/John8790909/CONNECT**
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on **CONNECT**
+- 👯 I’m looking to collaborate on **CONNECT** // **https://github.com/John8790909/CONNECT**
 
-- 🤝 I’m looking for help with **CONNECT**
+- 🤝 I’m looking for help with **CONNECT** // **https://github.com/John8790909/CONNECT**
 
 - 📫 How to reach me **johnsmith8790909@gmail.com**
 
