@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
-- 🔭 I’m currently working on **CONNECT**
+- 🔭 I’m currently working on **CONNECT**//**https://github.com/John8790909/CONNECT**
 
 - 🌱 I’m currently learning **TypeScript**
 
