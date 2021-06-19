@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **CONNECT** // **https://github.com/John8790909/CONNECT**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **GraphQL** <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="20" height="20"/>
 
 - 👯 I’m looking to collaborate on **CONNECT** // **https://github.com/John8790909/CONNECT**
 
