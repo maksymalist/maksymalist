@@ -16,9 +16,9 @@
 ## My GitHub Stats
 
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=monokai" />
+    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=radical" />
   </a>
 </p>
 
