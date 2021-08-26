@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
-![](https://komarev.com/ghpvc/?username=John8790909)
+
 
 - 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT**
 
@@ -15,6 +15,8 @@
 - 📫 How to reach me **johnsmith8790909@gmail.com**
 
 ## My GitHub Stats
+![](https://komarev.com/ghpvc/?username=John8790909)
+
 
 
 <p align="left">
