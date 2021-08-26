@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John Doe</h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
+![](https://komarev.com/ghpvc/?username=John8790909)
 
 - 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT**
 
