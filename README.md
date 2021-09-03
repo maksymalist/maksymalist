@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **GraphQL** <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="25" height="25"/>
 
-- 👯 I’m looking to collaborate on **CONNECT!** // **https://github.com/John8790909/CONNECT**
-
 - 🤝 I’m looking for help with **CONNECT!** // **https://github.com/John8790909/CONNECT**
 
 - 📫 How to reach me **johnsmith8790909@gmail.com**
