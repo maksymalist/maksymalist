@@ -6,8 +6,7 @@
 
 - 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT**
 
-- 🌱 I’m currently learning *Go*<img width='32px' height='32px' src=https://user-images.githubusercontent.com/79988159/142514098-515f5748-af09-4ff2-972b-b5fafc176f92.png alt='go'/>
-
+- 🌱 I’m currently learning **AI development with Python 🤖**
 - 📫 How to reach me **johnsmith8790909@gmail.com**
 
 - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863
