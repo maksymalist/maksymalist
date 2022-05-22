@@ -17,10 +17,9 @@
 
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=radical" />
+    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
 </p>
-
 
 <h3 align="left">My Languages and Tools:</h3>
 <p align='left'>
