@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋, I'm John Doe</h1>
+<h1 align="center">Hi 👋, I'm Eddie Carter </h1>
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
 
