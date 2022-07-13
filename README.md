@@ -4,12 +4,12 @@
 <h3 align="center">A passionate full-stack developer from Canada</h3>
 
 
-- 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT**
+<p> - 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT** </p>
 
-- 🌱 I’m currently learning **Machine learning with Python 🤖**
-- 📫 How to reach me **johnsmith8790909@gmail.com**
+ <p> - 🌱 I’m currently learning <b>Rust</b> </p>
+<p> - 📫 How to reach me **johnsmith8790909@gmail.com** </p>
 
-- 🤝 My Fiverr https://www.fiverr.com/eddiecarter863
+<p> - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863 </p>
 
 ## My GitHub Stats
 ![](https://komarev.com/ghpvc/?username=John8790909)
@@ -30,7 +30,7 @@
  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
  	![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
  <br></br>
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#white)
    ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
