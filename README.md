@@ -6,7 +6,7 @@
 
 <p> - 🔭 I’m currently working on **CONNECT!** // **https://github.com/John8790909/CONNECT** </p>
 
- <p> - 🌱 I’m currently learning <b>Rust</b> </p>
+ <p> - 🌱 I’m currently learning <b>Rust 🦀</b> </p>
 <p> - 📫 How to reach me **johnsmith8790909@gmail.com** </p>
 
 <p> - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863 </p>
