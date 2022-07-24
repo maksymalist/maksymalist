@@ -22,7 +22,7 @@
 
 <div>
 <p align="left">
-<h3 align="left">✨ My Languages and Tools ✨  ------------------------------------------>  ✨ Favorite Stack ✨</h3>
+<h3 align="left">✨ My Languages and Tools ✨  ------------------------------------------------>  ✨ Favorite Stack ✨</h3>
     <p><img src="https://skillicons.dev/icons?i=nextjs,redis,heroku,netlify,mongodb,firebase,bevy,docker,kubernetes,mmo,mmo,mongodb,express,react,nodejs,go,typescript,javascript,python,graphql,rust&perline=15" /> </p>
 </p>
 </div>
