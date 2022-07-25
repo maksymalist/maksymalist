@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Eddie Carter </h1>
-<h3 align="center">A passionate full-stack developer from Canada</h3>
+<h3 align="center">A passionate full-stack developer from Canada 🇨🇦</h3>
 
 
 <p> - 🔭 I’m currently working on <b>CONNECT</b>  | https://github.com/John8790909/CONNECT </p>
