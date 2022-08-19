@@ -11,7 +11,7 @@
 
 <p> - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863 </p>
 
-## My GitHub Stats
+## My GitHub Stats 📈
 ![](https://komarev.com/ghpvc/?username=John8790909)
 
 
