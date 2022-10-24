@@ -1,10 +1,10 @@
 
 
-<h1 align="center">Hi 👋, I'm Eddie Carter </h1>
+<h1 align="center">Hi 👋, I'm Maksym </h1>
 <h3 align="center">A passionate full-stack developer from Canada 🇨🇦</h3>
 
 
-<p> - 🔭 I’m currently working on <a href="https://knowt.io"><b>@Knowt</b></a> 📝 </p> 
+<p> - 🔭 I’m currently working at <a href="https://knowt.io"><b>@Knowt</b></a> 📝 </p> 
 
  <p> - 🌱 I’m currently learning <b>Rust 🦀 + Neovim 🖖 </b> </p>
 <p> - 📫 How to reach me <a href="mailto:support@quiz-connect.io">support@quiz-connect.io</a> </p>
