@@ -6,7 +6,7 @@
 
 <p> - 🔭 I’m currently working on <a href="https://knowt.io"><b>@Knowt</b></a> 📝 </p> 
 
- <p> - 🌱 I’m currently learning <b>Rust 🦀</b> </p>
+ <p> - 🌱 I’m currently learning <b>Rust 🦀 + Neovim 🖖 </b> </p>
 <p> - 📫 How to reach me <a href="mailto:support@quiz-connect.io">support@quiz-connect.io</a> </p>
 
 <p> - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863 </p>
