@@ -23,7 +23,7 @@
 <p> - 🤝 My Fiverr https://www.fiverr.com/eddiecarter863 </p>
 
  <p align="right">
-    <img src="https://github-readme-stats.vercel.app/api?username=John8790909&count_private=true&show_icons=true&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api?username=maksymalist&count_private=true&show_icons=true&theme=tokyonight" />
 </p>
 
 
