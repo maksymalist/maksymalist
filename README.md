@@ -6,7 +6,7 @@
 <h3 align="center">
  ✨ Favorite Stack ✨
 </h3>
-    <p align="center"><img src="https://skillicons.dev/icons?i=postgresql,go,typescript,nextjs" /> </p>
+    <p align="center"><img src="https://skillicons.dev/icons?i=postgresql,go,typescript,nextjs" />  </p>
 </div>
 
 <br/>
