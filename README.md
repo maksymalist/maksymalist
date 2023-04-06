@@ -1,15 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Maksym </h1>
-<h3 align="center">A passionate full-stack developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate developer from Canada 🇨🇦</h3>
 <br/>
-<h3 align="center">
- ✨ Favorite Stack ✨
-</h3>
-    <p align="center"><img src="https://skillicons.dev/icons?i=postgresql,go,typescript,nextjs" />  </p>
-</div>
 
-<br/>
+<p align="center">
+<h3 align="center">✨ My Languages and Tools ✨  </h3>
+    <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,redis,postgresql,prisma,mongodb,firebase,bevy,docker,kubernetes,go,rust,typescript,pytorch,python,graphql&perline=15" /> </p>
+</p>
+
 
 ![contributions](https://user-images.githubusercontent.com/79988159/204438144-7b6f9a1a-e171-41be-8272-19d46b101221.svg)
 
@@ -30,7 +29,3 @@
 <div>
  
  <br/>
-<p align="center">
-<h3 align="center">✨ My Languages and Tools ✨  </h3>
-    <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,redis,postgresql,prisma,mongodb,firebase,bevy,docker,kubernetes,go,rust,typescript,pytorch,python,graphql&perline=15" /> </p>
-</p>
