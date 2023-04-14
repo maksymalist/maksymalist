@@ -6,7 +6,7 @@
 
 <p align="center">
 <h3 align="center">✨ My Languages and Tools ✨  </h3>
-    <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,redis,postgresql,prisma,mongodb,firebase,bevy,docker,kubernetes,go,rust,typescript,pytorch,python,graphql&perline=15" /> </p>
+    <p align="center"><img src="https://skillicons.dev/icons?i=nextjs,redis,postgresql,prisma,firebase,bevy,docker,go,rust,typescript,pytorch,python,graphql&perline=15" /> </p>
 </p>
 
 
